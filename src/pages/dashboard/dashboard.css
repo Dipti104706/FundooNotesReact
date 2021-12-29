@@ -1,0 +1,18 @@
+.takeNotesContainer{
+    width:40%;
+    height:auto;
+    position: relative;
+    top:50px;
+    left:428px;
+}
+
+.mainNotesContainer{
+    width:70vw;
+    height: fit-content;
+    border: 1px solid white;
+    position: relative;
+    left: 316px;
+    top:20px;
+    display: flex;
+    flex-wrap: wrap;
+}
