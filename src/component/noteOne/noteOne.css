@@ -1,0 +1,24 @@
+.noteone{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #cfcbcb;
+    font:normal 12px "Product Sans";
+    font-family: Arial,sans-serif;
+    padding: 12px 16px;
+    box-shadow: 2px 1px gainsboro;
+    height: 41px;
+    width: 100%;
+    border-radius: 10px;
+    color: #958e8e;
+}
+
+#option2{
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+}
+
+.ant-input:focus, .ant-input-focused {
+    box-shadow: 0 0 0 2px rgb(235 236 237 / 20%);   
+}
